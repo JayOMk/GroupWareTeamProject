@@ -1,22 +1,22 @@
 # Team Project - GroupWare System "AssemWork"
 <br>
-231019_JAVAベース WEB&DATA融合Spring・Oracle 開発者育成コース 23-6 <dasdf
+231019_JAVAベースSpring・Oracle開発者育成コース23-6<br>
 2組 Team Project 社内用グループウェアシステム
 <br><br><br>
 
-## 🖥全機能🖥
+## 🖥全機能試練🖥
 <br>
 https://www.youtube.com/watch?v=hg7kBf6XoJM
 
 
- ## 📢프로젝트 소개 📢
+ ## 📢プロジェクトの概要📢
  
 <img src="https://github.com/YoonHanmin/GroupWareTeamProject/assets/145332449/ee50ac5c-2cea-49bc-8cbe-b7e246a56c60" style="width:500px; height:300px;">
  
  <br>
- - Spring legacy FrameWork의 MVC 패턴을 이용하여 사내 그룹웨어 시스템 구현   <br>
- - JQuery를 통해 페이지 전환을 최소화하여 사용자 편의성을 높인 UI 디자인 <br> 
- - 사내 임직원들의 전자결재, 메일, 각종 업무관련 신청등 업무 커뮤니케이션을 위한 다양한 기능 지원하는 그룹웨어 시스템
+ - Spring legacy FrameWorkのMVCパターンを用いて社内のグループウェアシステムを具現 <br>
+ - JQueryを通じ、ページ転換を最小化し使用者の便意性を高めたUIデザイン <br> 
+ - 社内사내 임직원들의 전자결재, 메일, 각종 업무관련 신청등 업무 커뮤니케이션을 위한 다양한 기능 지원하는 그룹웨어 시스템
 
 <br>
 
