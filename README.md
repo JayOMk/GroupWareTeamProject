@@ -16,11 +16,11 @@ https://www.youtube.com/watch?v=hg7kBf6XoJM
  <br>
  - Spring legacy FrameWorkのMVCパターンを用いて社内のグループウェアシステムを具現 <br>
  - JQueryを通じ、ページ転換を最小化し使用者の便意性を高めたUIデザイン <br> 
- - 社内사내 임직원들의 전자결재, 메일, 각종 업무관련 신청등 업무 커뮤니케이션을 위한 다양한 기능 지원하는 그룹웨어 시스템
+ - 従業員の電子決裁・メール・有給管理・業務関係の資源要請など、社内のコミュニケーションのために様々な機能を支援するグループウェアシステム
 
 <br>
 
-## 🧾기술 STACK 🧾
+## 🧾 STACK 🧾
 <br><br>
 <img src="https://github.com/YoonHanmin/GroupWareTeamProject/assets/145332449/8a87ad7b-f4cd-479d-b5a6-8b0def722143" style="width:500px; height:300px;">
 - JDK 1.8
@@ -53,34 +53,34 @@ https://www.youtube.com/watch?v=hg7kBf6XoJM
 <br>
 <br>
 
-## 프로젝트 일정🗓
+## プロジェクトの日程🗓
 <br>
 <img src="https://github.com/YoonHanmin/GroupWareTeamProject/assets/145332449/9db1a7f1-766c-4e04-a041-d958aaff3312"/>
 <br>
 
-## 🛠주요 기능🛠
+## 🛠 主要機能🛠
 <br>
-- 이메일 인증을 통한 회원가입,로그인
+- メール認証を通じた会員登録
 <br>
-- 메신저 기능<br>
-- 전자결재 기능<br>
-- 휴가,출장등 일정관리<br>
-- 각종 업무관련 자원요청 기능<br>
-- 커뮤니티 공지사항,자유게시판,앨범게시판등<br>
-- 실시간 알림기능 (메시지,전자결재,휴가신청 승인,댓글등 실시간 알림 전송)<br>
+- メッセンジャー<br>
+- 電子決裁機能<br>
+- 日程管理<br>
+- 各種の業務に関わる資源要請機能<br>
+- お知らせ・掲示板 ・アルバム掲示板など<br>
+- 通知機能 (メッセージ・決裁・有休及び半休申請・掲示板コメントなどに対するリアルタイム通知)<br>
 
-## 🗂사용 API & 라이브러리🗂
+## 🗂 API & Library🗂
 <br>
 - JavaMail API
-- Kakao 우편번호 API
-- thumbnailator(썸네일러)
+- Kakao 郵便番号 API
+- thumbnailator
 - Jackson
 - fullcalendar-5.6.0
 
 
-## 💁‍♂️팀원 소개💁‍♂️
+## 💁‍♂️チームメンバー💁‍♂️
 
-🧑 윤한민(팀장) - 프론트엔드,로그인,메신저,전자결재,실시간 알림 기능<br>
+🧑 (팀장) - 프론트엔드,로그인,메신저,전자결재,실시간 알림 기능<br>
 🧑 오재석       - 회원가입,일정관리<br>
 🧑 정병관       - 자유게시판,자원요청 기능<br>
 🧑 조수영       - 공지사항,앨범<br>
@@ -88,7 +88,7 @@ https://www.youtube.com/watch?v=hg7kBf6XoJM
 
 
 
-## ⭐기능 상세설명 ⭐
+## ⭐ 機能の詳細 ⭐
 
 
 <br>
@@ -102,7 +102,7 @@ https://www.youtube.com/watch?v=hg7kBf6XoJM
 <br>
 <br>
 
-<h1>📆일정관리 시연📆</h1>
+<h1>📆日程管理機能のデモビデオ📆</h1>
 <br>
 
 <img src="https://github.com/YoonHanmin/GroupWareTeamProject/assets/145332449/2e5a333a-0471-4af6-a5f5-08d8e2e6d12a"/>
@@ -112,7 +112,7 @@ https://www.youtube.com/watch?v=hg7kBf6XoJM
 <br>
 
 
-<h1>📮메신저 시연📮</h1>
+<h1>📮メッセンジャー機能のデモビデオ📮</h1>
 <br>
 <img src="https://github.com/YoonHanmin/GroupWareTeamProject/assets/145332449/63e71304-d106-4df9-ae09-77af48c03f21"/>
 <br>
@@ -122,7 +122,7 @@ https://www.youtube.com/watch?v=hg7kBf6XoJM
 <img src="https://github.com/YoonHanmin/GroupWareTeamProject/assets/145332449/847bbbe6-ade9-4490-8b0c-8e25da659ba9"/>
 <img src="https://github.com/YoonHanmin/GroupWareTeamProject/assets/145332449/734210ab-3cf9-4494-8fc6-208d957eb694"/>
 <br>
-<h1>📜전자결재 시연📜</h1>
+<h1>📜電子決裁機能のデモビデオ📜</h1>
 <br>
 <img src="https://github.com/YoonHanmin/GroupWareTeamProject/assets/145332449/29cf6d31-74d4-46ae-833c-fe3f9827bf21"/>
 <br>
@@ -134,19 +134,19 @@ https://www.youtube.com/watch?v=hg7kBf6XoJM
 
 <img src="https://github.com/YoonHanmin/GroupWareTeamProject/assets/145332449/30ce135d-bcd1-43b0-a887-593d657a50fa"/>
 <br>
-<h1>📜자원요청 시연📜</h1>
+<h1>📜資源要請機能のデモビデオ📜</h1>
 <br>
 <img src="https://github.com/YoonHanmin/GroupWareTeamProject/assets/145332449/6db6c2ef-0c62-4f93-a615-d0283501dadc"/>
 <br><br>
 <br>
-<h1>🔔실시간 알람 기능🔔</h1>
+<h1>🔔リアルタイム通知🔔</h1>
 <br>
 <img src="https://github.com/YoonHanmin/GroupWareTeamProject/assets/145332449/bc832411-5db5-4262-907c-ed3b68cd15a7"/>
 <img src="https://github.com/YoonHanmin/GroupWareTeamProject/assets/145332449/9786520d-e473-4435-9e50-e795dd68fdcb"/>
 <img src="https://github.com/YoonHanmin/GroupWareTeamProject/assets/145332449/2a41d7e6-2d8e-44fc-9d5f-722596986c26"/>
 
 <br>
-<h1>🔔실시간 알람 기능 시연 영상🔔</h1>
+<h1>🔔リアルタイム通知機能のデモビデオ🔔</h1>
 <br>
 <img src="https://github.com/YoonHanmin/GroupWareTeamProject/assets/145332449/5416fb04-8e8e-460b-889e-36c5319c785b"/>
 
