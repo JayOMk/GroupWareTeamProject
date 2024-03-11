@@ -1,10 +1,10 @@
-# 팀프로젝트 - 그룹웨어 시스템 AssemWork
+# Team Project - GroupWare System "AssemWork"
 <br>
-231019_(디지털컨버전스 혼합)JAVA기반 웹& 데이터 융합 스프링,오라클 양성과정 23-6 
-2조 팀프로젝트 사내 그룹웨어 시스템
+231019_JAVAベース WEB&DATA融合Spring・Oracle 開発者育成コース 23-6 <dasdf
+2組 Team Project 社内用グループウェアシステム
 <br><br><br>
 
-## 🖥전체 기능 시연 영상🖥
+## 🖥全機能🖥
 <br>
 https://www.youtube.com/watch?v=hg7kBf6XoJM
 
